@@ -1,0 +1,59 @@
+10-18-2021 @ 10:07:22 - ---[ New import started at 2021-10-18 10:07:22 ] PHP Memory: 256 MB, WP Memory: 40 MB
+10-18-2021 @ 10:07:22 - Preparing for import.
+10-18-2021 @ 10:07:22 - Row :1 - Parsing item.
+10-18-2021 @ 10:07:22 - Importing as new product ID:1825
+10-18-2021 @ 10:07:22 - Row :1 - Processing item.
+10-18-2021 @ 10:07:22 - Found simple product object. ID:1825
+10-18-2021 @ 10:07:22 - Setting Featured Image. URL:https://www.technovirt.com/tinytailbox/wp-content/uploads/2020/05/dog-subscripton-box-wag-swag-box-scaled-2-e1591906519612.jpg
+10-18-2021 @ 10:07:24 - URL:https://www.technovirt.com/tinytailbox/wp-content/uploads/2020/05/dog-subscripton-box-wag-swag-box-scaled-2-e1591906519612.jpg Reason:Error getting remote image https://www.technovirt.com/tinytailbox/wp-content/uploads/2020/05/dog-subscripton-box-wag-swag-box-scaled-2-e1591906519612.jpg. Error: Not Found
+10-18-2021 @ 10:07:24 - Setting Gallery Images.
+10-18-2021 @ 10:07:24 - Image URL:https://www.technovirt.com/tinytailbox/wp-content/uploads/2020/03/dog-subscription-box-wag-swag-box-march-2.jpg
+10-18-2021 @ 10:07:25 - URL:https://www.technovirt.com/tinytailbox/wp-content/uploads/2020/03/dog-subscription-box-wag-swag-box-march-2.jpg Reason:Error getting remote image https://www.technovirt.com/tinytailbox/wp-content/uploads/2020/03/dog-subscription-box-wag-swag-box-march-2.jpg. Error: Not Found
+10-18-2021 @ 10:07:25 - Image URL:Wag Swag Box - March - It is a box of various treats, toys, and fashion items for small dogs.
+10-18-2021 @ 10:07:25 - Unable to use image "Wag Swag Box - March - It is a box of various treats, toys, and fashion items for small dogs.".
+10-18-2021 @ 10:07:25 - Image URL:wag-swag-box-march
+10-18-2021 @ 10:07:25 - Unable to use image "wag-swag-box-march".
+10-18-2021 @ 10:07:25 - Image URL:Wag Swag Box - March - It is a box of various treats, toys, and fashion items for small dogs.
+10-18-2021 @ 10:07:25 - Unable to use image "Wag Swag Box - March - It is a box of various treats, toys, and fashion items for small dogs.".
+10-18-2021 @ 10:07:25 - Image URL:https://www.technovirt.com/tinytailbox/wp-content/uploads/2020/04/dog-subscription-box-tiny-tails-box-april-2020-2.jpg
+10-18-2021 @ 10:07:26 - URL:https://www.technovirt.com/tinytailbox/wp-content/uploads/2020/04/dog-subscription-box-tiny-tails-box-april-2020-2.jpg Reason:Error getting remote image https://www.technovirt.com/tinytailbox/wp-content/uploads/2020/04/dog-subscription-box-tiny-tails-box-april-2020-2.jpg. Error: Not Found
+10-18-2021 @ 10:07:26 - Image URL:Tiny Tails Box -  April 2020
+10-18-2021 @ 10:07:26 - Unable to use image "Tiny Tails Box -  April 2020".
+10-18-2021 @ 10:07:26 - Image URL:https://www.technovirt.com/tinytailbox/wp-content/uploads/2019/12/dog-subscription-box-tinytailsbox-wag-swag-box-2.jpg
+10-18-2021 @ 10:07:27 - URL:https://www.technovirt.com/tinytailbox/wp-content/uploads/2019/12/dog-subscription-box-tinytailsbox-wag-swag-box-2.jpg Reason:Error getting remote image https://www.technovirt.com/tinytailbox/wp-content/uploads/2019/12/dog-subscription-box-tinytailsbox-wag-swag-box-2.jpg. Error: Not Found
+10-18-2021 @ 10:07:27 - Image URL:Example Wag Swag box for small dogs. It has various toys, treats, and fashion items for dogs.
+10-18-2021 @ 10:07:27 - Unable to use image "Example Wag Swag box for small dogs. It has various toys, treats, and fashion items for dogs.".
+10-18-2021 @ 10:07:27 - Image URL:tinytailsbox-wag-swag-box
+10-18-2021 @ 10:07:27 - Unable to use image "tinytailsbox-wag-swag-box".
+10-18-2021 @ 10:07:27 - Image URL:Example Wag Swag box for small dogs. It has various toys, treats, and fashion items for dogs.
+10-18-2021 @ 10:07:27 - Unable to use image "Example Wag Swag box for small dogs. It has various toys, treats, and fashion items for dogs.".
+10-18-2021 @ 10:07:27 - Row :1 - Product imported successfully.
+10-18-2021 @ 10:07:27 - Row :2 - Parsing item.
+10-18-2021 @ 10:07:27 - Importing as new product ID:2163
+10-18-2021 @ 10:07:27 - Row :2 - Processing item.
+10-18-2021 @ 10:07:27 - Found simple product object. ID:2163
+10-18-2021 @ 10:07:27 - Setting Featured Image. URL:https://www.technovirt.com/tinytailbox/wp-content/uploads/2020/05/dog-subscription-box-cover-1-2.jpeg
+10-18-2021 @ 10:07:29 - URL:https://www.technovirt.com/tinytailbox/wp-content/uploads/2020/05/dog-subscription-box-cover-1-2.jpeg Reason:Error getting remote image https://www.technovirt.com/tinytailbox/wp-content/uploads/2020/05/dog-subscription-box-cover-1-2.jpeg. Error: Not Found
+10-18-2021 @ 10:07:29 - Setting Gallery Images.
+10-18-2021 @ 10:07:29 - Image URL:https://www.technovirt.com/tinytailbox/wp-content/uploads/2020/01/dog-subscription-box-deluxe-wag-swag-sample-boy-2.jpg
+10-18-2021 @ 10:07:30 - URL:https://www.technovirt.com/tinytailbox/wp-content/uploads/2020/01/dog-subscription-box-deluxe-wag-swag-sample-boy-2.jpg Reason:Error getting remote image https://www.technovirt.com/tinytailbox/wp-content/uploads/2020/01/dog-subscription-box-deluxe-wag-swag-sample-boy-2.jpg. Error: Not Found
+10-18-2021 @ 10:07:30 - Image URL:Example Wag Swag box for small dogs. It has various toys, treats, and fashion items for boy dogs.
+10-18-2021 @ 10:07:30 - Unable to use image "Example Wag Swag box for small dogs. It has various toys, treats, and fashion items for boy dogs.".
+10-18-2021 @ 10:07:30 - Image URL:Example Wag Swag box for small dogs. It has various toys, treats, and fashion items for boy dogs.
+10-18-2021 @ 10:07:30 - Unable to use image "Example Wag Swag box for small dogs. It has various toys, treats, and fashion items for boy dogs.".
+10-18-2021 @ 10:07:30 - Image URL:https://www.technovirt.com/tinytailbox/wp-content/uploads/2020/03/img_1097.jpg
+10-18-2021 @ 10:07:31 - URL:https://www.technovirt.com/tinytailbox/wp-content/uploads/2020/03/img_1097.jpg Reason:Error getting remote image https://www.technovirt.com/tinytailbox/wp-content/uploads/2020/03/img_1097.jpg. Error: Not Found
+10-18-2021 @ 10:07:31 - Image URL:Deluxe Wag Swag Box - Boy - March - It is a box of various treats, toys, and fashion items for small dogs.
+10-18-2021 @ 10:07:31 - Unable to use image "Deluxe Wag Swag Box - Boy - March - It is a box of various treats, toys, and fashion items for small dogs.".
+10-18-2021 @ 10:07:31 - Image URL:Deluxe Wag Swag Box - Boy - March - It is a box of various treats, toys, and fashion items for small dogs.
+10-18-2021 @ 10:07:31 - Unable to use image "Deluxe Wag Swag Box - Boy - March - It is a box of various treats, toys, and fashion items for small dogs.".
+10-18-2021 @ 10:07:31 - Image URL:https://www.technovirt.com/tinytailbox/wp-content/uploads/2020/03/dog-subscription-box-deluxe-wag-swag-box-march-girl-2.jpg
+10-18-2021 @ 10:07:32 - URL:https://www.technovirt.com/tinytailbox/wp-content/uploads/2020/03/dog-subscription-box-deluxe-wag-swag-box-march-girl-2.jpg Reason:Error getting remote image https://www.technovirt.com/tinytailbox/wp-content/uploads/2020/03/dog-subscription-box-deluxe-wag-swag-box-march-girl-2.jpg. Error: Not Found
+10-18-2021 @ 10:07:32 - Image URL:Deluxe Wag Swag Box - Girl - March - It is a box of various treats, toys, and fashion items for small dogs.
+10-18-2021 @ 10:07:32 - Unable to use image "Deluxe Wag Swag Box - Girl - March - It is a box of various treats, toys, and fashion items for small dogs.".
+10-18-2021 @ 10:07:32 - Image URL:Deluxe Wag Swag Box - Girl - March - It is a box of various treats, toys, and fashion items for small dogs.
+10-18-2021 @ 10:07:32 - Unable to use image "Deluxe Wag Swag Box - Girl - March - It is a box of various treats, toys, and fashion items for small dogs.".
+10-18-2021 @ 10:07:32 - Image URL:https://www.technovirt.com/tinytailbox/wp-content/uploads/2020/05/dog-subscription-box-may-2020-outside-2.jpg
+10-18-2021 @ 10:07:33 - URL:https://www.technovirt.com/tinytailbox/wp-content/uploads/2020/05/dog-subscription-box-may-2020-outside-2.jpg Reason:Error getting remote image https://www.technovirt.com/tinytailbox/wp-content/uploads/2020/05/dog-subscription-box-may-2020-outside-2.jpg. Error: Not Found
+10-18-2021 @ 10:07:33 - Row :2 - Product imported successfully.
+10-18-2021 @ 10:07:33 - ---[ Import ended at 2021-10-18 10:07:33]---

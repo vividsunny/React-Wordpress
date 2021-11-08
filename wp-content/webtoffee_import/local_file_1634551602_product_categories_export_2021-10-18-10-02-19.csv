@@ -1,0 +1,4 @@
+term_id,name,slug,description,display_type,parent,thumbnail
+18,"Tiny Tails Box Products",tiny-tails-box-products,"Tiny Tails Box Products Catalog",products,0,
+44,Gifts,gifts,,default,18,
+45,Subscriptions,subscriptions,,default,18,
